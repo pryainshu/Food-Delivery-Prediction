@@ -28,25 +28,12 @@ performance. It utilizes core Supervised Learning concepts, especially
 -   Cost Function
 -   Model Evaluation Metrics
 
-## 🗂️ Project Structure
-
-    📁 Food-Delivery-Prediction
-    │
-    ├── README.md
-    ├── requirements.txt
-    ├── main.ipynb
-    ├── model.py
-    ├── data_preprocessing.py
-    ├── 📁 dataset/
-    │     └── data.csv
-    └── 📁 assets/
-          └── images, plots
 
 ## 📊 Dataset
 
-Typical columns include: - `order_time` - `distance` - `traffic` -
-`delivery_person_rating` - `weather` - `pickup_time` - `delivery_time`
-*(target variable)*
+Typical columns include: - 'Order_ID', 'Distance_km', 'Weather', 'Traffic_Level', 'Time_of_Day',
+       'Vehicle_Type', 'Preparation_Time_min', 'Courier_Experience_yrs',
+       *('Delivery_Time_min)*
 
 ## 🧪 Model Evaluation
 
