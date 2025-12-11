@@ -52,14 +52,13 @@ Typical columns include: - `order_time` - `distance` - `traffic` -
 
 Metrics used: - **MAE** - **MSE** - **RMSE** - **R² Score**
 
-(Add your actual scores here)
-
+Score = 81%
 ## ▶️ How to Run
 
 1.  Clone the repo:
 
     ``` bash
-    git clone https://github.com/yourusername/food-delivery-prediction.git
+    git clone https://github.com/pryainshu/food-delivery-prediction.git
     ```
 
 2.  Install dependencies:
